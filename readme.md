@@ -2,7 +2,7 @@
 
 This project demonstrates a complete **CI/CD pipeline implementation on Azure DevOps** for a containerized microservices application — originally from [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app).
 
-It showcases how to automate the build, test, and deployment of a multi-service architecture using **Azure DevOps**, **AKS**, and **Helm**, following cloud-native best practices.
+It showcases how to automate the build, test, and deployment of a multi-service architecture using **Azure DevOps**, **AKS**, and **ArgoCD**, following cloud-native best practices.
 
 ---
 
